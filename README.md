@@ -5,7 +5,8 @@ Jarvis is a smart and customizable desktop assistant built using **Python**, **E
 From launching apps to making calls and chatting, Jarvis brings AI and automation to your fingertips.
 
 ---
-(https://github.com/ar0rafi99/Jarvis-AI-assistant/blob/main/Screenshot%202026-05-20%20221007.png)
+---
+---
 
 ## ✨ Features
 
